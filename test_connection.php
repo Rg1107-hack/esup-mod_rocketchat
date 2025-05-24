@@ -1,4 +1,5 @@
-<?php
+<hmcc
+	?php
 // This file is part of Moodle - http://moodle.org/
 //
 // Moodle is free software: you can redistribute it and/or modify
@@ -69,4 +70,5 @@ if ($result) {
     echo html_writer::div(get_string('connection-success', 'mod_rocketchat'), 'alert');
 }
 echo $OUTPUT->container_end();
-echo $OUTPUT->footer();
+echo $OUTPUT->footer();ig
+	
